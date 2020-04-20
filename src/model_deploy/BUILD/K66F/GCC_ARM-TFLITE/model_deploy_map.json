@@ -2,108 +2,108 @@
     {
         "module": "../..",
         "size": {
+            ".text-delta": 0,
             ".text": 34323,
-            ".bss-delta": 6762,
-            ".bss": 6762,
             ".data": 473,
-            ".text-delta": 34323,
-            ".data-delta": 473
+            ".bss": 6762,
+            ".data-delta": 0,
+            ".bss-delta": 0
         }
     },
     {
         "module": "BUILD/K66F",
         "size": {
+            ".text-delta": 0,
             ".text": 41822,
-            ".bss-delta": 2906,
-            ".bss": 2906,
             ".data": 229,
-            ".text-delta": 41822,
-            ".data-delta": 229
+            ".bss": 2906,
+            ".data-delta": 0,
+            ".bss-delta": 0
         }
     },
     {
         "module": "[fill]",
         "size": {
+            ".text-delta": 0,
             ".text": 274,
-            ".bss-delta": 31,
-            ".bss": 31,
             ".data": 13,
-            ".text-delta": 274,
-            ".data-delta": 13
+            ".bss": 31,
+            ".data-delta": 0,
+            ".bss-delta": 0
         }
     },
     {
         "module": "[lib]/c.a",
         "size": {
+            ".text-delta": 0,
             ".text": 34599,
-            ".bss-delta": 89,
-            ".bss": 89,
             ".data": 2472,
-            ".text-delta": 34599,
-            ".data-delta": 2472
+            ".bss": 89,
+            ".data-delta": 0,
+            ".bss-delta": 0
         }
     },
     {
         "module": "[lib]/gcc.a",
         "size": {
+            ".text-delta": 0,
             ".text": 3452,
-            ".bss-delta": 0,
-            ".bss": 0,
             ".data": 0,
-            ".text-delta": 3452,
-            ".data-delta": 0
+            ".bss": 0,
+            ".data-delta": 0,
+            ".bss-delta": 0
         }
     },
     {
         "module": "[lib]/m.a",
         "size": {
+            ".text-delta": 0,
             ".text": 2417,
-            ".bss-delta": 0,
-            ".bss": 0,
             ".data": 1,
-            ".text-delta": 2417,
-            ".data-delta": 1
+            ".bss": 0,
+            ".data-delta": 0,
+            ".bss-delta": 0
         }
     },
     {
         "module": "[lib]/misc",
         "size": {
+            ".text-delta": 0,
             ".text": 180,
-            ".bss-delta": 28,
-            ".bss": 28,
             ".data": 4,
-            ".text-delta": 180,
-            ".data-delta": 4
+            ".bss": 28,
+            ".data-delta": 0,
+            ".bss-delta": 0
         }
     },
     {
         "module": "[lib]/nosys.a",
         "size": {
+            ".text-delta": 0,
             ".text": 32,
-            ".bss-delta": 0,
-            ".bss": 0,
             ".data": 0,
-            ".text-delta": 32,
-            ".data-delta": 0
+            ".bss": 0,
+            ".data-delta": 0,
+            ".bss-delta": 0
         }
     },
     {
         "module": "[lib]/stdc++.a",
         "size": {
+            ".text-delta": 0,
             ".text": 40,
-            ".bss-delta": 16,
-            ".bss": 16,
             ".data": 0,
-            ".text-delta": 40,
-            ".data-delta": 0
+            ".bss": 16,
+            ".data-delta": 0,
+            ".bss-delta": 0
         }
     },
     {
         "summary": {
             "total_flash": 120331,
-            "static_ram": 13024,
-            "static_ram_delta": 13024,
-            "total_flash_delta": 120331
+            "static_ram_delta": 0,
+            "total_flash_delta": 0,
+            "static_ram": 13024
         }
     }
 ]
