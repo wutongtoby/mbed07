@@ -1,86 +1,86 @@
 [
     {
+        "module": "../..",
         "size": {
-            ".data-delta": 473,
-            ".bss-delta": 7414,
-            ".text-delta": 39730,
+            ".bss-delta": 0,
+            ".text-delta": 47,
+            ".data-delta": 0,
             ".bss": 7414,
-            ".text": 39730,
+            ".text": 39777,
             ".data": 473
-        },
-        "module": "../.."
+        }
     },
     {
+        "module": "BUILD/K66F",
         "size": {
-            ".data-delta": 4,
-            ".bss-delta": 680,
-            ".text-delta": 1417,
+            ".bss-delta": 0,
+            ".text-delta": 0,
+            ".data-delta": 0,
             ".bss": 680,
             ".text": 1417,
             ".data": 4
-        },
-        "module": "BUILD/K66F"
+        }
     },
     {
+        "module": "[fill]",
         "size": {
-            ".data-delta": 7,
-            ".bss-delta": 37,
-            ".text-delta": 209,
+            ".bss-delta": 0,
+            ".text-delta": 1,
+            ".data-delta": 0,
             ".bss": 37,
-            ".text": 209,
+            ".text": 210,
             ".data": 7
-        },
-        "module": "[fill]"
+        }
     },
     {
+        "module": "[lib]/c.a",
         "size": {
-            ".data-delta": 2472,
-            ".bss-delta": 89,
-            ".text-delta": 34865,
+            ".bss-delta": 0,
+            ".text-delta": 0,
+            ".data-delta": 0,
             ".bss": 89,
             ".text": 34865,
             ".data": 2472
-        },
-        "module": "[lib]/c.a"
+        }
     },
     {
+        "module": "[lib]/gcc.a",
         "size": {
-            ".data-delta": 0,
             ".bss-delta": 0,
-            ".text-delta": 3112,
+            ".text-delta": 0,
+            ".data-delta": 0,
             ".bss": 0,
             ".text": 3112,
             ".data": 0
-        },
-        "module": "[lib]/gcc.a"
+        }
     },
     {
+        "module": "[lib]/misc",
         "size": {
-            ".data-delta": 4,
-            ".bss-delta": 28,
-            ".text-delta": 180,
+            ".bss-delta": 0,
+            ".text-delta": 0,
+            ".data-delta": 0,
             ".bss": 28,
             ".text": 180,
             ".data": 4
-        },
-        "module": "[lib]/misc"
+        }
     },
     {
+        "module": "[lib]/nosys.a",
         "size": {
-            ".data-delta": 0,
             ".bss-delta": 0,
-            ".text-delta": 32,
+            ".text-delta": 0,
+            ".data-delta": 0,
             ".bss": 0,
             ".text": 32,
             ".data": 0
-        },
-        "module": "[lib]/nosys.a"
+        }
     },
     {
         "summary": {
-            "total_flash_delta": 82505,
-            "total_flash": 82505,
-            "static_ram_delta": 11208,
+            "total_flash_delta": 48,
+            "static_ram_delta": 0,
+            "total_flash": 82553,
             "static_ram": 11208
         }
     }
